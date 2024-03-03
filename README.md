@@ -1,4 +1,6 @@
-# AniKatsu API
+# Anime API
+
+Modified api of [Gogoanime-api](https://github.com/riimuru/gogoanime-api)
 
 ### Installing
 
@@ -6,8 +8,8 @@ Clone the Repository and run
 
 
 ```
-git clone https://github.com/shashankktiwariii/anikatsu-api.git
-cd anikatsu-api
+git clone https://github.com/kirixenyt/anime-api.git
+cd anime-api
 npm install 
 ```
 start the server with the following command:
