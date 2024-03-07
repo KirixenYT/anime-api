@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: animeapi
+    env: docker
+    repo: https://github.com/kirixenyt/anime-api.git
+    plan: free
+    branch: main
+    envVars:
+      - key: PORT
+        value: 3000
